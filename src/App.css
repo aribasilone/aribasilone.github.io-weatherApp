@@ -21,6 +21,7 @@ body {
   display: flex;
   overflow: auto;
   flex-wrap: wrap;
+  min-height: 90vh;
 }
 
 .title-container {
