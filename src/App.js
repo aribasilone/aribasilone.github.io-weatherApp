@@ -111,6 +111,7 @@ class App extends React.Component{
   render(){
     return(
       //single parent element in JSX
+      <div>
       <div className = "main">
         <div className = "title-container"><Title/></div>
         <div className ="form-container">
@@ -124,6 +125,7 @@ class App extends React.Component{
             error={this.state.error}
             unit= {this.state.unit}/>
         </div>
+      </div>
       </div>
     );
   }
