@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/weatherApp/static/css/main.d20dda24.chunk.css",
-    "main.js": "/weatherApp/static/js/main.42c3c8ce.chunk.js",
-    "main.js.map": "/weatherApp/static/js/main.42c3c8ce.chunk.js.map",
-    "runtime-main.js": "/weatherApp/static/js/runtime-main.0479f606.js",
-    "runtime-main.js.map": "/weatherApp/static/js/runtime-main.0479f606.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/weatherApp/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.31b1c9a5.chunk.js": "/weatherApp/static/js/2.31b1c9a5.chunk.js",
-    "static/js/2.31b1c9a5.chunk.js.map": "/weatherApp/static/js/2.31b1c9a5.chunk.js.map",
-    "index.html": "/weatherApp/index.html",
-    "precache-manifest.e230652d9e2f91995a1c4e0ef07ddd8f.js": "/weatherApp/precache-manifest.e230652d9e2f91995a1c4e0ef07ddd8f.js",
-    "service-worker.js": "/weatherApp/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/weatherApp/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.d20dda24.chunk.css.map": "/weatherApp/static/css/main.d20dda24.chunk.css.map",
-    "static/js/2.31b1c9a5.chunk.js.LICENSE": "/weatherApp/static/js/2.31b1c9a5.chunk.js.LICENSE",
-    "static/media/App.css": "/weatherApp/static/media/TO_waterfront.e4743232.jpg",
-    "static/media/sun_cloudy_icon.png": "/weatherApp/static/media/sun_cloudy_icon.f6e2b508.png"
+    "main.css": "/aribasilone.github.io-weatherApp/static/css/main.d5a1ae12.chunk.css",
+    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.0fbf0ee2.chunk.js",
+    "main.js.map": "/aribasilone.github.io-weatherApp/static/js/main.0fbf0ee2.chunk.js.map",
+    "runtime-main.js": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js",
+    "runtime-main.js.map": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js.map",
+    "static/css/2.47e06e2e.chunk.css": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css",
+    "static/js/2.31b1c9a5.chunk.js": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js",
+    "static/js/2.31b1c9a5.chunk.js.map": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.map",
+    "index.html": "/aribasilone.github.io-weatherApp/index.html",
+    "precache-manifest.2b9bc49e9218d1c91a126a50afdc42ae.js": "/aribasilone.github.io-weatherApp/precache-manifest.2b9bc49e9218d1c91a126a50afdc42ae.js",
+    "service-worker.js": "/aribasilone.github.io-weatherApp/service-worker.js",
+    "static/css/2.47e06e2e.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css.map",
+    "static/css/main.d5a1ae12.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/main.d5a1ae12.chunk.css.map",
+    "static/js/2.31b1c9a5.chunk.js.LICENSE": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.LICENSE",
+    "static/media/App.css": "/aribasilone.github.io-weatherApp/static/media/TO_waterfront.e4743232.jpg",
+    "static/media/sun_cloudy_icon.png": "/aribasilone.github.io-weatherApp/static/media/sun_cloudy_icon.f6e2b508.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.0479f606.js",
+    "static/js/runtime-main.d5c45d69.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.31b1c9a5.chunk.js",
-    "static/css/main.d20dda24.chunk.css",
-    "static/js/main.42c3c8ce.chunk.js"
+    "static/css/main.d5a1ae12.chunk.css",
+    "static/js/main.0fbf0ee2.chunk.js"
   ]
 }
