@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/aribasilone.github.io-weatherApp/static/css/main.d5a1ae12.chunk.css",
-    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.0fbf0ee2.chunk.js",
-    "main.js.map": "/aribasilone.github.io-weatherApp/static/js/main.0fbf0ee2.chunk.js.map",
+    "main.css": "/aribasilone.github.io-weatherApp/static/css/main.1fb82621.chunk.css",
+    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.b9176507.chunk.js",
+    "main.js.map": "/aribasilone.github.io-weatherApp/static/js/main.b9176507.chunk.js.map",
     "runtime-main.js": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js",
     "runtime-main.js.map": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js.map",
     "static/css/2.47e06e2e.chunk.css": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css",
     "static/js/2.31b1c9a5.chunk.js": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js",
     "static/js/2.31b1c9a5.chunk.js.map": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.map",
     "index.html": "/aribasilone.github.io-weatherApp/index.html",
-    "precache-manifest.2b9bc49e9218d1c91a126a50afdc42ae.js": "/aribasilone.github.io-weatherApp/precache-manifest.2b9bc49e9218d1c91a126a50afdc42ae.js",
+    "precache-manifest.93d7990328aa5fb440f5225a0959d346.js": "/aribasilone.github.io-weatherApp/precache-manifest.93d7990328aa5fb440f5225a0959d346.js",
     "service-worker.js": "/aribasilone.github.io-weatherApp/service-worker.js",
     "static/css/2.47e06e2e.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.d5a1ae12.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/main.d5a1ae12.chunk.css.map",
+    "static/css/main.1fb82621.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/main.1fb82621.chunk.css.map",
     "static/js/2.31b1c9a5.chunk.js.LICENSE": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.LICENSE",
     "static/media/App.css": "/aribasilone.github.io-weatherApp/static/media/TO_waterfront.e4743232.jpg",
     "static/media/sun_cloudy_icon.png": "/aribasilone.github.io-weatherApp/static/media/sun_cloudy_icon.f6e2b508.png"
@@ -21,7 +21,7 @@
     "static/js/runtime-main.d5c45d69.js",
     "static/css/2.47e06e2e.chunk.css",
     "static/js/2.31b1c9a5.chunk.js",
-    "static/css/main.d5a1ae12.chunk.css",
-    "static/js/main.0fbf0ee2.chunk.js"
+    "static/css/main.1fb82621.chunk.css",
+    "static/js/main.b9176507.chunk.js"
   ]
 }

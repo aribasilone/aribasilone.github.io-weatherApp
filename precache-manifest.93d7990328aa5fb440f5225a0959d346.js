@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7ffacf39a9c738dd2be75128667d53be",
+    "revision": "d8d76b7a2ea8bcc264e589f940570bd9",
     "url": "/aribasilone.github.io-weatherApp/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css"
   },
   {
-    "revision": "321b59252bda64ebf15d",
-    "url": "/aribasilone.github.io-weatherApp/static/css/main.d5a1ae12.chunk.css"
+    "revision": "f81061c31d0bc2fd9daa",
+    "url": "/aribasilone.github.io-weatherApp/static/css/main.1fb82621.chunk.css"
   },
   {
     "revision": "81911f0e38132cf1d1e8",
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.LICENSE"
   },
   {
-    "revision": "321b59252bda64ebf15d",
-    "url": "/aribasilone.github.io-weatherApp/static/js/main.0fbf0ee2.chunk.js"
+    "revision": "f81061c31d0bc2fd9daa",
+    "url": "/aribasilone.github.io-weatherApp/static/js/main.b9176507.chunk.js"
   },
   {
     "revision": "a7248343fdb11f6cd9b5",
