@@ -45,13 +45,13 @@ class App extends React.Component{
       //could hard code
 
       //check if valid country code
-      var countryCode = await (await fetch (`https://restcountries.eu/rest/v2/alpha/${countryQ}`)).json();
-      console.log(countryCode);
+      var countryCode = await (await fetch (`https://restcountries.com/v2/alpha/${countryQ}`)).json();
+      // console.log(countryCode);
         
       if(countryCode.status === 404 || countryCode.status === 400){
         //not recognised, check if valid country name
-        const countryCheck = await (await fetch(`https://restcountries.eu/rest/v2/name/${countryQ}`)).json();
-        console.log(countryCheck);
+        const countryCheck = await (await fetch(`https://restcountries.com/v2/name/${countryQ}`)).json();
+        // console.log(countryCheck);
 
         if(countryCheck.length === 1 && countryCheck.status !== 404 ){
           //api will produce suggestions based on name input, therefore check for single result, and check result
@@ -71,7 +71,7 @@ class App extends React.Component{
       
 
       const weathData = await (await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityQ},${countryQ}&units=${unitQ}&APPID=cd95e8d91daaa698e0bf339b6aa6b508`)).json();
-      console.log(weathData); 
+      // console.log(weathData); 
       if(weathData.cod ==="404"){
         this.invalidLocation();        
       }else{

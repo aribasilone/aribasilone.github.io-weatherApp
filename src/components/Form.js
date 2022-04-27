@@ -2,17 +2,23 @@ import React from 'react';
 
 const Form = (props) =>(
     <div>
-        Search a Destination
+        <h2 className='formTitle'>Search a Destination</h2>
         <form onSubmit={props.getAllWeathData}>
-            <input type="text" name="Country" placeholder="Country"></input>
-            <input type="text" name="City" placeholder="City"></input>
-            <label className="unitLabel">
-                <input type="radio" id="metricUnit" name="Unit" value="metric" defaultChecked></input>
-                <label htmlFor="metricUnit" className="Unit">Metric </label>
-                <input type="radio" id="imperialUnit" name= "Unit" value="imperial"></input>
-                <label htmlFor="imperialUnit" className="Unit">Imperial </label>
+            <div className='formFields'>
+                <input type="text" name="Country" placeholder="Country"></input>
+                <input type="text" name="City" placeholder="City"></input>
+                <label className="unitLabel">
+                    <div>
+                        <input type="radio" id="metricUnit" name="Unit" value="metric" defaultChecked></input>
+                        <label htmlFor="metricUnit" className="Unit">Metric </label>
+                    </div>
+                    <div>
+                        <input type="radio" id="imperialUnit" name= "Unit" value="imperial"></input>
+                        <label htmlFor="imperialUnit" className="Unit">Imperial </label> 
+                    </div>
                 {/* <span></span> */}
-            </label>
+                </label>
+            </div>
             <br></br>
             <button type="submit">Search</button>
         </form>
