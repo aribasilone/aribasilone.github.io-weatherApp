@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/aribasilone.github.io-weatherApp/static/css/main.13f5d680.css",
-    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.ed27aca8.js",
+    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.28a207f1.js",
     "static/media/TO_waterfront.jpg": "/aribasilone.github.io-weatherApp/static/media/TO_waterfront.9b8e0085ebf0e65a6131.jpg",
     "static/media/sun_cloudy_icon.png": "/aribasilone.github.io-weatherApp/static/media/sun_cloudy_icon.d6bd686421793d37b768.png",
     "index.html": "/aribasilone.github.io-weatherApp/index.html",
     "main.13f5d680.css.map": "/aribasilone.github.io-weatherApp/static/css/main.13f5d680.css.map",
-    "main.ed27aca8.js.map": "/aribasilone.github.io-weatherApp/static/js/main.ed27aca8.js.map"
+    "main.28a207f1.js.map": "/aribasilone.github.io-weatherApp/static/js/main.28a207f1.js.map"
   },
   "entrypoints": [
     "static/css/main.13f5d680.css",
-    "static/js/main.ed27aca8.js"
+    "static/js/main.28a207f1.js"
   ]
 }
