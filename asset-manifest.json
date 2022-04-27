@@ -1,27 +1,15 @@
 {
   "files": {
-    "main.css": "/aribasilone.github.io-weatherApp/static/css/main.1fb82621.chunk.css",
-    "main.js": "/aribasilone.github.io-weatherApp/static/js/main.b9176507.chunk.js",
-    "main.js.map": "/aribasilone.github.io-weatherApp/static/js/main.b9176507.chunk.js.map",
-    "runtime-main.js": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js",
-    "runtime-main.js.map": "/aribasilone.github.io-weatherApp/static/js/runtime-main.d5c45d69.js.map",
-    "static/css/2.47e06e2e.chunk.css": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css",
-    "static/js/2.31b1c9a5.chunk.js": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js",
-    "static/js/2.31b1c9a5.chunk.js.map": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.map",
-    "index.html": "/aribasilone.github.io-weatherApp/index.html",
-    "precache-manifest.93d7990328aa5fb440f5225a0959d346.js": "/aribasilone.github.io-weatherApp/precache-manifest.93d7990328aa5fb440f5225a0959d346.js",
-    "service-worker.js": "/aribasilone.github.io-weatherApp/service-worker.js",
-    "static/css/2.47e06e2e.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/2.47e06e2e.chunk.css.map",
-    "static/css/main.1fb82621.chunk.css.map": "/aribasilone.github.io-weatherApp/static/css/main.1fb82621.chunk.css.map",
-    "static/js/2.31b1c9a5.chunk.js.LICENSE": "/aribasilone.github.io-weatherApp/static/js/2.31b1c9a5.chunk.js.LICENSE",
-    "static/media/App.css": "/aribasilone.github.io-weatherApp/static/media/TO_waterfront.e4743232.jpg",
-    "static/media/sun_cloudy_icon.png": "/aribasilone.github.io-weatherApp/static/media/sun_cloudy_icon.f6e2b508.png"
+    "main.css": "/weatherApp/static/css/main.8f0e2543.css",
+    "main.js": "/weatherApp/static/js/main.375ff926.js",
+    "static/media/TO_waterfront.jpg": "/weatherApp/static/media/TO_waterfront.9b8e0085ebf0e65a6131.jpg",
+    "static/media/sun_cloudy_icon.png": "/weatherApp/static/media/sun_cloudy_icon.d6bd686421793d37b768.png",
+    "index.html": "/weatherApp/index.html",
+    "main.8f0e2543.css.map": "/weatherApp/static/css/main.8f0e2543.css.map",
+    "main.375ff926.js.map": "/weatherApp/static/js/main.375ff926.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.d5c45d69.js",
-    "static/css/2.47e06e2e.chunk.css",
-    "static/js/2.31b1c9a5.chunk.js",
-    "static/css/main.1fb82621.chunk.css",
-    "static/js/main.b9176507.chunk.js"
+    "static/css/main.8f0e2543.css",
+    "static/js/main.375ff926.js"
   ]
 }
