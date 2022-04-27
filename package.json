@@ -2,7 +2,7 @@
   "name": "sideprojectb",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://aribasilone.github.io/weatherApp",
+  "homepage": "https://aribasilone.github.io/aribasilone.github.io-weatherApp/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
