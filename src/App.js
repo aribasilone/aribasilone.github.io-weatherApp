@@ -70,7 +70,7 @@ class App extends React.Component{
       }
       
 
-      const weathData = await (await fetch(`http://api.openweathermap.org/data/2.5/weather?q=${cityQ},${countryQ}&units=${unitQ}&APPID=cd95e8d91daaa698e0bf339b6aa6b508`)).json();
+      const weathData = await (await fetch(`https://api.openweathermap.org/data/2.5/weather?q=${cityQ},${countryQ}&units=${unitQ}&APPID=cd95e8d91daaa698e0bf339b6aa6b508`)).json();
       // console.log(weathData); 
       if(weathData.cod ==="404"){
         this.invalidLocation();        
